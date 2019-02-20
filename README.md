@@ -1,1 +1,2 @@
-# The Jamilah GitHub
+# Jamilah McWilliams
+## Full Stack Software Developer
