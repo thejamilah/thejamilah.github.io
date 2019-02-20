@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[the.jamilah](mailto:jamilah.mcwilliams@outlook.com)
+[Jamilah McWilliams](mailto:jamilah.mcwilliams@outlook.com)
